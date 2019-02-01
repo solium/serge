@@ -14,6 +14,8 @@ sub parse {
 
     my $translated_text = $$textref;
 
+    $translated_text =~ s/^\s+|\s+$//g;
+
     if ($translated_text ne '') {
         $translated_text = &$callbackref($translated_text, 'text', undef, undef, $lang, 'text');
     }
