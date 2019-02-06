@@ -6,7 +6,7 @@ msgstr ""
 "Generated-By: Serge 1.3\n"
 
 #: File: textarea.text
-#: ID: 44ac9d045d69b43e96fe645851cb41c0
+#: ID: 27e16edcc0d8c7c557b141733847a6f8
 msgctxt "text"
 msgid ""
 "HTML <textarea> Tag\n"
@@ -26,7 +26,7 @@ msgid ""
 "in a fixed-width font (usually Courier).\n"
 "\n"
 "The size of a text area can be specified by the cols and rows attributes, or "
-"even better; through CSS' height and width properties.\n"
+"even better; through CSS' height and width properties."
 msgstr ""
 "ĤŦḾŁ <textarea> Ŧáğ\n"
 "\n"
@@ -45,4 +45,4 @@ msgstr ""
 "ĩŋ á ḟĩҳēđ-ŵĩđţĥ ḟőŋţ (ũšũáļļŷ Ćőũŕĩēŕ).\n"
 "\n"
 "Ŧĥē šĩžē őḟ á ţēҳţ áŕēá çáŋ ḃē šṕēçĩḟĩēđ ḃŷ ţĥē çőļš áŋđ ŕőŵš áţţŕĩḃũţēš, őŕ "
-"ēṽēŋ ḃēţţēŕ; ţĥŕőũğĥ ĆŠŠ' ĥēĩğĥţ áŋđ ŵĩđţĥ ṕŕőṕēŕţĩēš.\n"
+"ēṽēŋ ḃēţţēŕ; ţĥŕőũğĥ ĆŠŠ' ĥēĩğĥţ áŋđ ŵĩđţĥ ṕŕőṕēŕţĩēš."
